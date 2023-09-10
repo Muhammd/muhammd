@@ -50,6 +50,7 @@
 <a href="https://maltego.com" target="_blank"> <img src="https://www.maltego.com/favicon.ico" alt="Maltego" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://st-ar.cdn.postman.com/images/favicon-1-32.png" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="40" height="40"/> </a> 
+<a href="https://www.KALI.org/" target="_blank"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kali-linux-icon.png" alt="Kali" width="40" height="40"/> </a> 
 
   <samp>
       <p align="center">
