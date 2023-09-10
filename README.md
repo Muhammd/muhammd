@@ -54,7 +54,7 @@
   <samp>
       <p align="center">
     </samp>
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-%40muhammd-239a3b.svg)](https://github.com/muhammd)
 [![Twitter](https://img.shields.io/badge/Twitter-%40muhammd-0c66c3.svg)](https://twitter.com/muhammdhaidari)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/muhammd/)
@@ -62,9 +62,8 @@
 [![Web](https://img.shields.io/badge/www-muhammd.com-0c66c3.svg)](https://www.muhammd.com)
 [![Project](https://img.shields.io/badge/Wiki-PenTest-0c66c3.svg)](https://pentest.tools/)
 ![](https://komarev.com/ghpvc/?username=muhammd)
-![Followers](https://img.shields.io/github/followers/idealclover?style=social-0c66c3.svg)
+<!-- LEAVE For Now!![Followers](https://img.shields.io/github/followers/idealclover?style=social-0c66c3.svg) -->
 <!-- LEAVE For Now!![User's stars](https://img.shields.io/github/stars/muhammd?style=social-0c66c3.svg) -->
-
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
