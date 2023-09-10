@@ -60,7 +60,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40muhammd-0c66c3.svg)](https://twitter.com/muhammdhaidari)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/muhammd/)
 [![Email](https://img.shields.io/badge/Email-Me-0c66c3.svg)](mailto:mh@muhammd.com?subject=[GitHub]%20Source%20Contact)
-[![Web](https://img.shields.io/badge/www-muhammd.com-0c66c3.svg)](https://www.muhammd.com)
+[![Web](https://img.shields.io/badge/www-muhammd-0c66c3.svg)](https://www.muhammd.com)
 [![Project](https://img.shields.io/badge/Wiki-PenTest-0c66c3.svg)](https://pentest.tools/)
 ![](https://komarev.com/ghpvc/?username=muhammd)
 [![Meetme](https://img.shields.io/badge/Meet-Me-0c66c3.svg)](https://calendly.com/muhammd/15min)
